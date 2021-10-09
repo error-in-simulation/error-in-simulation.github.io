@@ -81,6 +81,8 @@ model without *ψ*, and the weighted model with *ψ*. Clustered standard
 errors by state population were chosen to be included. We present the
 findings of our estimates in the table below:
 
+![table](/img/econometrics/table.png)
+
 All models find MLDA to be significant. We find that on average, a lower
 MLDA resulted in an increase of 6-7 motor vehicle accident fatalities
 per 100 000. Including the interaction term modestly increases standard
