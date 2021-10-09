@@ -184,4 +184,4 @@ implement
 
 
 
-P.S. If you are a student looking to peruse my code for your own academic projects, I'd advise that Measure of Software Similarity are quite effective at checking for plagiarism.
+P.S. If you are a student looking to peruse my code for your own academic projects, I'd advise that Measure of Software Similarity are quite effective at checking for plagiarism. On the other hand, this code is truly not that difficult to replicate - use at your own risk, IMO.
