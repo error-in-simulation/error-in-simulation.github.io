@@ -15,3 +15,5 @@ All code/graphics was written by me.
 <object data="{{ site.url }}{{ site.baseurl }}/pset1.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 [Example 2](/423ProjectAnalysis.pdf) - This longer project analysis featured EDA, regression and diagnostic plots. 
+
+<object data="{{ site.url }}{{ site.baseurl }}//423ProjectAnalysis.pdf" width="1000" height="1000" type="application/pdf"></object>
