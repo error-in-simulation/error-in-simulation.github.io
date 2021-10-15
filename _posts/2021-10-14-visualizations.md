@@ -12,4 +12,6 @@ All code/graphics was written by me.
 
 [Example 1](/pset1.pdf) - I explored family income and inequality trends in a short problem set.
 
+<object data="../pset1.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 [Example 2](/423ProjectAnalysis.pdf) - This longer project analysis featured EDA, regression and diagnostic plots. 
