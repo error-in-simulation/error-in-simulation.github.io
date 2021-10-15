@@ -59,7 +59,9 @@ The model in the paper is a panel regression of the following form:
 The model chosen to replicate the results *in general*[3] is that of the
 difference in differences design:
 
-$$Y\_{st} = \\alpha +  \\delta\_{DD} \\text{MLDA}\_{st} + \\sum\_{k=\\text{Alaska}}^{\\text{Wyoming}}\\beta\_k\\text{State}\_{ks} + \\sum\_{i=1970}^{1983} \\lambda\_{i}\\text{Year}\_{it} + \\psi\_{st} + \\varepsilon\_{st} $$
+$$Y_{st} = \alpha +  \delta_{DD} \text{MLDA}_{st} + \sum_{k=\text{Alaska}}^{\text{Wyoming}}\beta_k\text{State}_{ks} + \sum_{i=1970}^{1983} \lambda_{i}\text{Year}_{it} + \psi_{st} + \varepsilon_{st} $$
+
+
 
 The above model can be interpreted in the following manner: *Y* is the
 mortality rate, *α* is the intercept term, *δ* is the parameter for MLDA
