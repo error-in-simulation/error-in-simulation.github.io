@@ -3,6 +3,7 @@ layout: post
 title: "Project 1: Econometrics"
 subtitle: "Part 1/n"
 date: 2021-10-09 23:45:13 -0400
+usemathjax: true
 background:
 ---
 
